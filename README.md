@@ -1,6 +1,6 @@
 # Basic Spammer (DISCLAMIER: USED FOR EDUCATIONAL PURPOSES)
 💻
-Ever wanted to annoy your friends? Or trying to get someone online? Well look no further than the basic spammer, by simply running the py file you can edit it to say different things at different times.
+Ever wanted to annoy your friends? Or trying to get someone online? Well look no further than the basic spammer, by simply running the py file you can annoy as many people as you want, and it is completely open source allowing you to edit it to say different things at different times.
 
 # Requirements
 📜
